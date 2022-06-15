@@ -1,0 +1,325 @@
+
+
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+    a.navbar-brand {
+        font-size: 30px;
+    }
+    
+    li.nav-item {
+        padding: 10px 45px;
+    }
+    a.nav-link {
+        color: black;
+        font-size: 20px;
+    }
+    
+    .container-sm {
+        margin-bottom: 100px;
+    }
+    
+    section.theme-bg h1 {
+        font-size: 62px;
+        font-weight: 700;
+    }
+    
+    .theme-bg p {
+        margin-top: 45px;
+    }
+    
+    button.btn.btn-danger {
+        padding: 7px 38px;
+        border-radius: 38px;
+        margin-top: 20px;
+    }
+    
+    section.theme-bg img {
+        width: 100%;
+        border-radius: 62px;
+    }
+    
+    .box {
+        text-align: center;
+        margin-bottom: 50px;
+    
+    }
+    
+    section.Agency h2 {
+        margin-bottom: 30px;
+        font-weight: 700;
+        font-size: 34px;
+    }
+    
+    section.theme-bg {
+        margin-bottom: 57px;
+    }
+    
+    i.fa.fa-signal {
+        font-size: 32px;
+        color: #00c3ff;
+        /* margin-top: 16px; */
+    }
+    
+    .fa-cubes {
+        color: red;
+        font-size: 32px;
+    }
+    
+    .fa-users {
+        font-size: 32px;
+        color: #ffc600;
+    }
+    
+    .box_2 p {
+        padding-left: 60px;
+    }
+    
+    .box_2 h3 {
+        padding: 0px 0 25px 17px;
+    }
+    
+    .box_2 h1 {
+        margin-bottom: 50px;
+    }
+    
+    .box_3 {
+        text-align: center;
+        /* margin-top: 72px; */
+    }
+    
+    .box_2 img {
+        width: 85%;
+        border-radius: 25px;
+    }
+    
+    .box_2 {
+        margin-bottom: 60px;
+    }
+    
+    .box_4 {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 58px;
+    }
+    
+    .box_4 {
+        padding: 20px;
+    }
+    
+    .fa-laptop:before {
+        content: "\f109";
+        font-size: 45px;
+        color: red;
+        padding-bottom: 9px;
+    }
+    
+    .box_4 h4 {
+        margin-bottom: 30px;
+        margin-top: 33px;
+    }
+    
+    .box-1 p {
+        padding-left: 61px;
+    }
+    
+    .fa-pie-chart {
+        font-size: 45px;
+        color: #ffc600;
+    }
+    
+    .fa-rocket {
+        font-size: 45px;
+        color: #00c3ff;
+    }
+    
+    .box_5 h5 {
+        font-size: 43px;
+        padding-top: 25px;
+    }
+    
+    .b0x_7 {
+        text-align: center;
+    }
+    
+    section.Best.In {
+        padding: 40px;
+        background-color: #f0f6ff;
+        margin-bottom: 40px;
+    }
+    
+    .Latest.News {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    
+    .box_6 img {
+        width: 90%;
+    }
+    
+    .box_6 {
+        padding: 16px;
+        box-shadow: 10px -12px 16px 4px #f4ebeb;
+    }
+    
+    .box_6 p {
+        padding: 15px;
+        font-size: 20px;
+        color: #00c3ff;
+    }
+    
+    .box_7 {
+        text-align: center;
+    }
+    
+    .box_7 h4 {
+        font-size: 40px;
+        font-weight: 500;
+    }
+    
+    .box_10 {
+        padding: 54px;
+    
+        border: 1px solid #eee;
+        border-radius: var(--border-radius);
+    
+    }
+    
+    .box_10 h3 {
+        padding: 20px;
+        font-weight: 700;
+        font-size: 23px;
+        /* padding-left: .0px; */
+    
+    
+    }
+    
+    .box_8 {
+        padding-top: 26px;
+    }
+    
+    .fa-quote-right:before {
+        content: "\f10e";
+        font-size: 44px;
+        color: #00c3ff;
+    }
+    
+    .box_7 {
+        text-align: center;
+        margin-bottom: 57px;
+    }
+    
+    section.Posts {
+        margin-bottom: 68px;
+    }
+    
+    section.theme-bg img {
+        margin-bottom: 57px;
+        padding-left: 21px;
+    }
+    
+    section.Thank.You {
+        padding: 30px;
+        text-align: center;
+    }
+    
+    .box_13 h4 {
+        padding: 53px;
+        font-size: 35px;
+        font-weight: 700;
+        color: white;
+    }
+    
+    section.Happy {
+        margin-bottom: 50px;
+    }
+    
+    .box_12 p {
+        color: white;
+        font-size: 26px;
+    }
+    
+    section.Thank.You {
+        background-image: url(https://p.w3layouts.com/demos_new/template_demo/09-07-2021/seog-liberty-demo_Free/928753335/web/assets/images/3.jpg);
+        /* height: 100vh; */
+        /* background: url(../images/3.jpg) no-repeat center; */
+        background-position: center;
+        -ms-background-size: cover;
+        background-size: cover;
+    }
+    
+    
+    footer.WORK {
+        text-align: center;
+    }
+    
+    .box_14 {
+        padding-top: 50px;
+    }
+    
+    footer.WORK p {
+        color: #00c3ff;
+    }
+    
+    footer.WORK {
+        background: black;
+    }
+    
+    footer.WORK h3 {
+        color: white;
+    }
+    
+    .fa-facebook-f:before,
+    .fa-facebook:before {
+        content: "\f09a";
+        color: #00c3ff;
+        ;
+        border: 2px soluid;
+        border: 2px solid;
+        padding: 20px;
+        border-radius: 34px;
+    }
+    
+    .fa-twitter:before {
+        content: "\f099";
+        color: #00c3ff;
+        ;
+        border: 2px soluid;
+        border: 2px solid;
+        padding: 20px;
+        border-radius: 34px;
+    }
+    
+    .fa-instagram:before {
+        content: "\f16d";
+        color: #00c3ff;
+        ;
+        border: 2px soluid;
+        border: 2px solid;
+        padding: 20px;
+        border-radius: 34px;
+    }
+    
+    .fa-linkedin:before {
+        content: "\f0e1";
+        color: #00c3ff;
+        ;
+        border: 2px soluid;
+        border: 2px solid;
+        padding: 20px;
+        border-radius: 34px
+    }
+    
+    .text-center {
+        text-align: center !important;
+        font-size: 54px;
+        font-weight: 700;
+    }
+    
+    .Shop.This {
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    
